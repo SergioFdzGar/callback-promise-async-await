@@ -1,4 +1,4 @@
-# Callback, Promese, Async-Await
+# Callback, Promise, Async-Await
 
 Proyecto para ver los distintos usos de callbacks, promesas y funciones asíncronas.
 
